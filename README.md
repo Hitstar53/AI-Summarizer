@@ -7,7 +7,7 @@ This is a project that uses the AI to summarize the text. It uses the OpenAI GPT
 3. Run `npm run dev` to start the project
 
 ## Live Demo
-
+![image](https://user-images.githubusercontent.com/84141920/233795627-22052a0f-6146-4316-90ba-9f1231a45f5d.png)
 
 ## How it works
 1. The url is sent as a request to rapidapi.com via redux store
